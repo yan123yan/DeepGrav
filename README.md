@@ -1,7 +1,7 @@
 # DEEPGRAV: ANOMALOUS GRAVITATIONAL-WAVE DETECTION THROUGH DEEP LATENT FEATURES
 
 **Team Members:**  
-- Jianqi Yan (Department of Physics, The University of Hong Kong)  
+- Jianqi Yan (Department of Physics, The University of Hong Kong) [easonyan123]
 - Zhiyuan Pei (Faculty of Innovation Engineering, Macau University of Science and Technology)  
 - Alex P. Leung (Department of Physics, The University of Hong Kong)  
 - David C. Y. Hui (Department of Astronomy & Space Science, Chungnam National University)  
@@ -26,6 +26,10 @@ For more details, visit [the competition page](https://www.codabench.org/competi
 📚 The paper of this competition is available at the following arXiv link:  
 Building Machine Learning Challenges for Anomaly Detection in Science
 [https://arxiv.org/html/2503.02112v1](https://arxiv.org/html/2503.02112v1)
+
+### Leaderboard
+choose Leaderboard in the following page
+[https://www.nsfhdr.org/mlchallenge](https://www.nsfhdr.org/mlchallenge)
 
 ---
 
