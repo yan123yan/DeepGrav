@@ -24,8 +24,9 @@ The project demonstrates exceptional prediction performance (with a final True N
 For more details, visit [the competition page](https://www.codabench.org/competitions/2626/#).
 
 📚 The paper of this competition is available at the following arXiv link:  
-**Building Machine Learning Challenges for Anomaly Detection in Science**  
+Building Machine Learning Challenges for Anomaly Detection in Science
 [https://arxiv.org/html/2503.02112v1](https://arxiv.org/html/2503.02112v1)
+
 ---
 
 ### Visualizations & Image Summaries
