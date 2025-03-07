@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Project Updates & Announcements  
-- **[March 6, 2025]** 🎉 We released the **first version** of our paper on arXiv.
+- **[March 6, 2025]** 🎉 We released the **first version** of our paper on [arXiv](http://arxiv.org/abs/2503.03799).
 - **[February 17, 2025]** 🎉 It is honorable for us to get to the **1st Place** in the NSF HDR A3D3 - Detecting Anomalous Gravitational Wave Signals competition.  
 
 ---
